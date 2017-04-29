@@ -1,0 +1,14 @@
+#page-header {
+  text-align: center;
+  margin-top: 50px;
+  font-family: helvetica;
+}
+
+#map {
+  margin: auto;
+  margin-top: 50px;
+  width: 80%;
+  height: 500px;
+  background-color: grey;
+  border: solid 5px black;
+ }
