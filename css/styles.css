@@ -4,6 +4,11 @@
   font-family: helvetica;
 }
 
+#lookup {
+  width: 50%;
+  margin: auto;
+}
+
 #map {
   margin: auto;
   margin-top: 50px;
